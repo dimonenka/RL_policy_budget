@@ -76,4 +76,4 @@ f`runs/{n}_agents_{k}_policies*/`
 
 ## Citation
 
-Will be added once AAAI 2024 proceeding are published.
+Will be added once AAAI 2024 proceedings are published.
